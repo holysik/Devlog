@@ -84,19 +84,6 @@
 
 ---
 
-## 📸 주요 기능 화면
-- 채팅 
- <img width="500" height="300" alt="{49078D6B-1A5B-4A37-A5F4-F6A343E39BD9}" src="https://github.com/user-attachments/assets/eff5ea18-bd81-4908-b079-de5420e3ef83" />
-
-- 알림
- <img width="458" height="535" alt="{9AFFE007-C31C-471D-BF35-3D587999DE7D}" src="https://github.com/user-attachments/assets/d84a7ae6-12d2-47fe-a4e6-2c921abb7f91" />
-
-- 메일 발송
- <img width="500" height="300" alt="{5C36BD5C-4AB0-4870-9E99-7D350869A9B3}" src="https://github.com/user-attachments/assets/ffe2c348-8904-4c26-96ac-022e67b044ac" />
-
-
-
----
 
 ## 🧬 기술 스택
 
